@@ -1,0 +1,10 @@
+D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.csproj.AssemblyReference.cache
+D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.frmPrincipal.resources
+D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.Properties.Resources.resources
+D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.csproj.GenerateResource.cache
+D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.csproj.CoreCompileInputs.cache
+D:\ProyectoSistemas\proyecto2\bin\Debug\proyecto2.exe.config
+D:\ProyectoSistemas\proyecto2\bin\Debug\proyecto2.exe
+D:\ProyectoSistemas\proyecto2\bin\Debug\proyecto2.pdb
+D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.exe
+D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.pdb
