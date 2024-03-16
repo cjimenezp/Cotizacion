@@ -8,3 +8,23 @@ D:\ProyectoSistemas\proyecto2\bin\Debug\proyecto2.exe
 D:\ProyectoSistemas\proyecto2\bin\Debug\proyecto2.pdb
 D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.exe
 D:\ProyectoSistemas\proyecto2\obj\Debug\proyecto2.pdb
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\bin\Debug\proyecto2.exe.config
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\bin\Debug\proyecto2.exe
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\bin\Debug\proyecto2.pdb
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\obj\Debug\proyecto2.csproj.AssemblyReference.cache
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\obj\Debug\proyecto2.frmPrincipal.resources
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\obj\Debug\proyecto2.Properties.Resources.resources
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\obj\Debug\proyecto2.csproj.GenerateResource.cache
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\obj\Debug\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\obj\Debug\proyecto2.exe
+C:\Users\Iván Escalante\Downloads\proyecto2 (1)\proyecto2\obj\Debug\proyecto2.pdb
+C:\PROGRAMAS\SOINTEC\proyecto2\bin\Debug\proyecto2.exe.config
+C:\PROGRAMAS\SOINTEC\proyecto2\bin\Debug\proyecto2.exe
+C:\PROGRAMAS\SOINTEC\proyecto2\bin\Debug\proyecto2.pdb
+C:\PROGRAMAS\SOINTEC\proyecto2\obj\Debug\proyecto2.csproj.AssemblyReference.cache
+C:\PROGRAMAS\SOINTEC\proyecto2\obj\Debug\proyecto2.frmPrincipal.resources
+C:\PROGRAMAS\SOINTEC\proyecto2\obj\Debug\proyecto2.Properties.Resources.resources
+C:\PROGRAMAS\SOINTEC\proyecto2\obj\Debug\proyecto2.csproj.GenerateResource.cache
+C:\PROGRAMAS\SOINTEC\proyecto2\obj\Debug\proyecto2.csproj.CoreCompileInputs.cache
+C:\PROGRAMAS\SOINTEC\proyecto2\obj\Debug\proyecto2.exe
+C:\PROGRAMAS\SOINTEC\proyecto2\obj\Debug\proyecto2.pdb

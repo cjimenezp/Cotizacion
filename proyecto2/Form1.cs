@@ -31,14 +31,14 @@ namespace proyecto2
 
             try//se comprueba que se ingrese la cantidad de comenzales
             {
-                if (txtComenzales.Text.Equals(""))
+                if (txtComensales.Text.Equals(""))
                 {
                     MessageBox.Show("Debe ingresar una cantidad de comenzales primero", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
                 else
                 {
-                    grabar._Personas = int.Parse(txtComenzales.Text);//se graba en el archivo la cotizacion y el presupuesto
-                    MessageBox.Show(grabar.Grabar(txtComenzales.Text));//se muestra el mensaje de la clase proyecto2
+                    grabar._Personas = int.Parse(txtComensales.Text);//se graba en el archivo la cotizacion y el presupuesto
+                    MessageBox.Show(grabar.Grabar(txtComensales.Text));//se muestra el mensaje de la clase proyecto2
                 }
             }
             catch(Exception ex)
@@ -103,7 +103,7 @@ namespace proyecto2
         public void limpiar()//limpiar el listview y el textbox
         {
             lsvDatos.Clear();
-            txtComenzales.Clear();
+            txtComensales.Clear();
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -114,6 +114,13 @@ namespace proyecto2
         private void btnSalir_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void COTIZAR(object sender, KeyPressEventArgs e)
+        {
+            proyecto2 proyecto2 = new proyecto2();
+            proyecto2.validarnumber(e);
+
         }
     }
 }

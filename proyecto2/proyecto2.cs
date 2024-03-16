@@ -33,7 +33,7 @@ namespace proyecto2
 
         }
 
-        public string Grabar(string comenzales)//metodo para crear el archivo
+        public string Grabar(string comensales)//metodo para crear el archivo
         {
             calculo personas = new calculo();//instancia del objeto
 
@@ -63,6 +63,30 @@ namespace proyecto2
             }
 
             return "El presupuesto para el banquete es de: $" + personas.calculoBanquete() + " y el número de cotización es: " + numeroAleatorio;
+        }
+        public KeyPressEventArgs validarnumber(KeyPressEventArgs e)
+        {
+            if (char.IsDigit(e.KeyChar))
+            {
+                e.Handled = false;
+            }
+            else if (char.IsSeparator(e.KeyChar))
+            {
+                e.Handled = false;
+            }
+            else if (char.IsControl(e.KeyChar))
+            {
+                e.Handled = false;
+            }
+            else if (e.KeyChar == ',')
+            {
+                e.Handled = false;
+            }
+            else
+            {
+                e.Handled = true;
+            }
+            return e;
         }
 
 
